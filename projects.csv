@@ -1,0 +1,113 @@
+name,section,framework,industry,description,url
+HIA (Health Insights Agent),Industry,Standalone,Healthcare,Analyses medical reports and provides health insights,https://github.com/harshhh28/hia
+AI Health Assistant,Industry,Standalone,Healthcare,Diagnoses and monitors diseases using patient data,https://github.com/ahmadvh/AI-Agents-for-Medical-Diagnostics
+Automated Trading Bot,Industry,Standalone,Finance,Automates stock trading with real-time market analysis,https://github.com/MingyuJ666/Stockagent
+Agent Wallet SDK,Industry,Standalone,Finance,Non-custodial smart contract wallet SDK for AI agents with enforced spend limits,https://github.com/up2itnow0822/agent-wallet-sdk
+Virtual AI Tutor,Industry,Standalone,Education,Provides personalized education tailored to users,https://github.com/hqanhh/EduGPT
+24/7 AI Chatbot,Industry,Standalone,Customer Service,Handles customer queries around the clock,https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/customer_support_agent_langgraph.ipynb
+Product Recommendation Agent,Industry,Standalone,Retail,Suggests products based on user preferences and history,https://github.com/microsoft/RecAI
+Self-Driving Delivery Agent,Industry,Standalone,Transportation,Optimizes routes and autonomously delivers packages,https://github.com/sled-group/driVLMe
+Factory Process Monitoring Agent,Industry,Standalone,Manufacturing,Monitors production lines and ensures quality control,https://github.com/yuchenxia/llm4ias
+Property Pricing Agent,Industry,Standalone,Real Estate,Analyzes market trends to determine property prices,https://github.com/AleksNeStu/ai-real-estate-assistant
+Smart Farming Assistant,Industry,Standalone,Agriculture,Provides insights on crop health and yield predictions,https://github.com/mohammed97ashraf/LLM_Agri_Bot
+Energy Demand Forecasting Agent,Industry,Standalone,Energy,Predicts energy usage to optimize grid management,https://github.com/yecchen/MIRAI
+Content Personalization Agent,Industry,Standalone,Entertainment,Recommends personalized media based on preferences,https://github.com/crosleythomas/MirrorGPT
+Legal Document Review Assistant,Industry,Standalone,Legal,Automates document review and highlights key clauses,https://github.com/firica/legalai
+Recruitment Recommendation Agent,Industry,Standalone,Human Resources,Suggests best-fit candidates for job openings,https://github.com/sentient-engineering/jobber
+Virtual Travel Assistant,Industry,Standalone,Hospitality,Plans travel itineraries based on preferences,https://github.com/nirbar1985/ai-travel-agent
+AI Game Companion Agent,Industry,Standalone,Gaming,Enhances player experience with real-time assistance,https://github.com/onjas-buidl/LLM-agent-game
+Real-Time Threat Detection Agent,Industry,Standalone,Cybersecurity,Identifies potential threats and mitigates attacks,https://github.com/NVISOsecurity/cyber-security-llm-agents
+E-commerce Personal Shopper Agent,Industry,Standalone,E-commerce,Helps customers find products they'll love,https://github.com/Hoanganhvu123/ShoppingGPT
+Logistics Optimization Agent,Industry,Standalone,Supply Chain,Plans efficient delivery routes and manages inventory,https://github.com/microsoft/OptiGuide
+Vibe Hacking Agent,Industry,Standalone,Cybersecurity,Autonomous Multi-Agent Based Red Team Testing Service,https://github.com/PurpleAILAB/Decepticon
+Agent Memory Guard,Industry,Standalone,Cybersecurity,Detects and blocks memory poisoning attacks (OWASP ASI06) in AI agent memory stores,https://github.com/OWASP/www-project-agent-memory-guard
+Citadel,Industry,Standalone,Software Development,"Orchestrates Claude Code agent fleets with lifecycle hooks, skills, campaign management, and postmortem-driven architecture",https://github.com/SethGammon/Citadel
+MediSuite-AI-Agent,Industry,Standalone,Health Insurance,Automates hospital / insurance claiming workflow,https://github.com/ahmedmansour5/MediSuite-Ai-Agent
+Lina Egyptian Medical Chatbot,Industry,Standalone,Healthcare,Egyptian medical assistant chatbot,https://github.com/dina-khalid/Lina-Egyptian-Medical-Chatbot
+NextRole (AI Career Assistant),Industry,Standalone,Human Resources,Tailors a resume to a job description and generates interview prep plus a day-of battlecard via a multi-agent system,https://github.com/tam159/next-role
+PII Sanitization Agent,Industry,Standalone,Privacy/Compliance,"Redacts PII (emails, phones, national IDs, bank accounts, API keys) from text before it reaches an LLM; fail-closed, multilingual, on-chain proof via TrustBoost",https://github.com/teodorofodocrispin-cmyk/TrustBoost-PII-Sanitizer
+Email Auto Responder Flow,CrewAI,CrewAI,Communication,Automates email responses based on predefined criteria,https://github.com/crewAIInc/crewAI-examples/tree/main/flows/email_auto_responder_flow
+Meeting Assistant Flow,CrewAI,CrewAI,Productivity,"Organizes meetings, scheduling and agenda preparation",https://github.com/crewAIInc/crewAI-examples/tree/main/flows/meeting_assistant_flow
+Self Evaluation Loop Flow,CrewAI,CrewAI,Human Resources,Facilitates self-assessment for performance reviews,https://github.com/crewAIInc/crewAI-examples/tree/main/flows/self_evaluation_loop_flow
+Lead Score Flow,CrewAI,CrewAI,Sales,Evaluates and scores potential leads to prioritize outreach,https://github.com/crewAIInc/crewAI-examples/tree/main/flows/lead-score-flow
+Marketing Strategy Generator,CrewAI,CrewAI,Marketing,Develops marketing strategies by analyzing market trends,https://github.com/crewAIInc/crewAI-examples/tree/main/crews/marketing_strategy
+Job Posting Generator,CrewAI,CrewAI,Recruitment,Creates job postings by analyzing job requirements,https://github.com/crewAIInc/crewAI-examples/tree/main/crews/job-posting
+Recruitment Workflow,CrewAI,CrewAI,Recruitment,Streamlines recruitment by automating hiring tasks,https://github.com/crewAIInc/crewAI-examples/tree/main/crews/recruitment
+Match Profile to Positions,CrewAI,CrewAI,Recruitment,Matches candidate profiles to suitable job positions,https://github.com/crewAIInc/crewAI-examples/tree/main/crews/match_profile_to_positions
+Instagram Post Generator,CrewAI,CrewAI,Social Media,Generates and schedules Instagram posts automatically,https://github.com/crewAIInc/crewAI-examples/tree/main/crews/instagram_post
+Landing Page Generator,CrewAI,CrewAI,Web Development,Automates creation of landing pages for websites,https://github.com/crewAIInc/crewAI-examples/tree/main/crews/landing_page_generator
+Game Builder Crew,CrewAI,CrewAI,Game Development,Assists in game development by automating aspects of creation,https://github.com/crewAIInc/crewAI-examples/tree/main/crews/game-builder-crew
+Stock Analysis Tool,CrewAI,CrewAI,Finance,Provides tools for analyzing stock market data,https://github.com/crewAIInc/crewAI-examples/tree/main/crews/stock_analysis
+Trip Planner,CrewAI,CrewAI,Travel,Assists in planning trips with itineraries,https://github.com/crewAIInc/crewAI-examples/tree/main/crews/trip_planner
+Surprise Trip Planner,CrewAI,CrewAI,Travel,Plans surprise trips based on user preferences,https://github.com/crewAIInc/crewAI-examples/tree/main/crews/surprise_trip
+Write a Book with Flows,CrewAI,CrewAI,Creative Writing,Assists authors with structured writing workflows,https://github.com/crewAIInc/crewAI-examples/tree/main/flows/write_a_book_with_flows
+Screenplay Writer,CrewAI,CrewAI,Creative Writing,Aids in writing screenplays with templates and guidance,https://github.com/crewAIInc/crewAI-examples/tree/main/crews/screenplay_writer
+Markdown Validator,CrewAI,CrewAI,Documentation,Validates Markdown files for proper formatting,https://github.com/crewAIInc/crewAI-examples/tree/main/crews/markdown_validator
+Meta Quest Knowledge,CrewAI,CrewAI,Knowledge Management,Manages Meta Quest knowledge for information retrieval,https://github.com/crewAIInc/crewAI-examples/tree/main/crews/meta_quest_knowledge
+NVIDIA Models Integration,CrewAI,CrewAI,AI Integration,Integrates NVIDIA AI models into workflows,https://github.com/crewAIInc/crewAI-examples/tree/main/integrations/nvidia_models
+Prep for a Meeting,CrewAI,CrewAI,Productivity,Prepares meeting materials and sets agendas,https://github.com/crewAIInc/crewAI-examples/tree/main/crews/prep-for-a-meeting
+Starter Template,CrewAI,CrewAI,Development,Starter template for new CrewAI projects,https://github.com/crewAIInc/crewAI-examples/tree/main/crews/starter_template
+CrewAI + LangGraph Integration,CrewAI,CrewAI,AI Integration,Integration between CrewAI and LangGraph,https://github.com/crewAIInc/crewAI-examples/tree/main/integrations/CrewAI-LangGraph
+"Automated Task Solving with Code Gen, Execution & Debugging",AutoGen,AutoGen,Software Development,"Demonstrates automated task-solving by generating, executing, and debugging code",https://microsoft.github.io/autogen/0.2/docs/notebooks/agentchat_auto_feedback_from_code_execution
+Code Generation and Q&A with Retrieval Augmented Agents,AutoGen,AutoGen,Software Development,Generates code and answers questions using retrieval-augmented methods,https://microsoft.github.io/autogen/0.2/docs/notebooks/agentchat_RetrieveChat
+Code Generation and Q&A with Qdrant-based Retrieval,AutoGen,AutoGen,Software Development,Utilizes Qdrant for enhanced retrieval-augmented agent performance,https://microsoft.github.io/autogen/0.2/docs/notebooks/agentchat_RetrieveChat_qdrant
+"Group Chat (3 members, 1 manager)",AutoGen,AutoGen,Collaboration,Demonstrates group task-solving via multi-agent collaboration,https://microsoft.github.io/autogen/0.2/docs/notebooks/agentchat_groupchat
+Data Visualization by Group Chat,AutoGen,AutoGen,Data Analysis,Uses multi-agent collaboration to create data visualizations,https://microsoft.github.io/autogen/0.2/docs/notebooks/agentchat_groupchat_vis
+Complex Task Solving by Group Chat (6 members),AutoGen,AutoGen,Collaboration,Solves complex tasks collaboratively with a larger group,https://microsoft.github.io/autogen/0.2/docs/notebooks/agentchat_groupchat_research
+Task Solving with Coding & Planning Agents,AutoGen,AutoGen,Planning & Dev,Combines coding and planning agents for solving tasks,https://github.com/microsoft/autogen/blob/0.2/notebook/agentchat_planning.ipynb
+Task Solving with Graph Transition Paths,AutoGen,AutoGen,Collaboration,Uses predefined transition paths in a graph for solving tasks,https://microsoft.github.io/autogen/docs/notebooks/agentchat_groupchat_finite_state_machine
+SocietyOfMindAgent Inner-Monologue,AutoGen,AutoGen,Cognitive Sciences,Simulates inner-monologue for problem-solving using group chats,https://microsoft.github.io/autogen/0.2/docs/notebooks/agentchat_society_of_mind
+Group Chat with Custom Speaker Selection,AutoGen,AutoGen,Collaboration,Implements a custom function for speaker selection,https://microsoft.github.io/autogen/0.2/docs/notebooks/agentchat_groupchat_customized
+Sequential Task-Solving (single initiating agent),AutoGen,AutoGen,Workflow Automation,Automates sequential task-solving with a single initiating agent,https://microsoft.github.io/autogen/0.2/docs/notebooks/agentchat_multi_task_chats
+Async Sequential Task-Solving,AutoGen,AutoGen,Workflow Automation,Handles asynchronous task-solving in a sequence of chats,https://microsoft.github.io/autogen/0.2/docs/notebooks/agentchat_multi_task_async_chats
+Sequential Chats with Different Initiating Agents,AutoGen,AutoGen,Workflow Automation,Sequential task-solving with different agents initiating each chat,https://microsoft.github.io/autogen/0.2/docs/notebooks/agentchats_sequential_chats
+Solving Complex Tasks with Nested Chats,AutoGen,AutoGen,Problem Solving,Uses nested chats to solve hierarchical and complex problems,https://microsoft.github.io/autogen/0.2/docs/notebooks/agentchat_nestedchat
+Sequence of Nested Chats,AutoGen,AutoGen,Problem Solving,Demonstrates sequential task-solving using nested chats,https://microsoft.github.io/autogen/0.2/docs/notebooks/agentchat_nested_sequential_chats
+OptiGuide Supply Chain with Nested Chats,AutoGen,AutoGen,Supply Chain,Solves supply chain optimization using nested chats,https://microsoft.github.io/autogen/0.2/docs/notebooks/agentchat_nestedchat_optiguide
+Conversational Chess with Nested Chats,AutoGen,AutoGen,Gaming,Uses nested chats for playing conversational chess with tools,https://microsoft.github.io/autogen/0.2/docs/notebooks/agentchat_nested_chats_chess
+Web Search: Solve Tasks Requiring Web Info,AutoGen,AutoGen,Information Retrieval,Searches the web to gather information for completing tasks,https://github.com/microsoft/autogen/blob/0.2/notebook/agentchat_web_info.ipynb
+Use Provided Tools as Functions,AutoGen,AutoGen,Tool Integration,Demonstrates how to use pre-provided tools as callable functions,https://microsoft.github.io/autogen/0.2/docs/notebooks/agentchat_function_call_currency_calculator
+RAG Group Chat,AutoGen,AutoGen,Collaboration,Enables group chat with Retrieval Augmented Generation,https://microsoft.github.io/autogen/0.2/docs/notebooks/agentchat_groupchat_RAG
+Agent Chat with Whisper,AutoGen,AutoGen,Audio Processing,AI agent for transcription and translation using Whisper,https://microsoft.github.io/autogen/0.2/docs/notebooks/agentchat_video_transcript_translate_with_whisper
+SQL: Natural Language to SQL Query,AutoGen,AutoGen,Database Management,Converts natural language inputs into SQL queries,https://github.com/microsoft/autogen/blob/0.2/notebook/agentchat_sql_spider.ipynb
+Multimodal Agent with DALLE and GPT-4V,AutoGen,AutoGen,Multimedia AI,Combines DALLE and GPT-4V for multimodal agent communication,https://github.com/microsoft/autogen/blob/0.2/notebook/agentchat_dalle_and_gpt4v.ipynb
+Multimodal Agent with Llava,AutoGen,AutoGen,Image Processing,Uses Llava for multimodal agent conversations,https://github.com/microsoft/autogen/blob/0.2/notebook/agentchat_lmm_llava.ipynb
+Multimodal Agent with GPT-4V,AutoGen,AutoGen,Multimedia AI,Leverages GPT-4V for visual and conversational interactions,https://github.com/microsoft/autogen/blob/0.2/notebook/agentchat_lmm_gpt-4v.ipynb
+AgentEval: Multi-Agent Assessment System,AutoGen,AutoGen,Performance Evaluation,Evaluating LLM-based application utility,https://github.com/microsoft/autogen/blob/0.2/notebook/agenteval_cq_math.ipynb
+Track LLM Calls and Errors using AgentOps,AutoGen,AutoGen,Monitoring & Analytics,"Monitors LLM interactions, tool usage, and errors",https://github.com/microsoft/autogen/blob/0.2/notebook/agentchat_agentops.ipynb
+Auto Build Multi-agent System with AgentBuilder,AutoGen,AutoGen,AI Development,Automatically builds multi-agent systems,https://github.com/microsoft/autogen/blob/0.2/notebook/autobuild_basic.ipynb
+Support Agent,Agno,Agno,AI Framework Support,"Real-time answers, explanations, and code examples for Agno framework",https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/agno_support_agent.py
+YouTube Agent,Agno,Agno,Media & Content,"Analyzes YouTube videos: summaries, timestamps, themes",https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/youtube_agent.py
+Finance Agent (Thinking),Agno,Agno,Finance,"Real-time stock insights, analyst recommendations, financial deep-dives",https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/thinking_finance_agent.py
+Study Partner,Agno,Agno,Education,"Finds resources, answers questions, creates study plans",https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/study_partner.py
+Shopping Partner Agent,Agno,Agno,E-commerce,"Product recommender based on preferences from Amazon, Flipkart",https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/shopping_partner.py
+Research Scholar Agent,Agno,Agno,Education / Research,"Advanced academic searches, publication analysis, structured reports",https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/research_agent_exa.py
+Research Agent,Agno,Agno,Media & Journalism,"Deep investigations, NYT-style reports",https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/research_agent.py
+Recipe Creator,Agno,Agno,Food & Culinary,Personalized recipes based on ingredients and preferences,https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/recipe_creator.py
+Financial Reasoning Agent,Agno,Agno,Finance,Claude 3.5 Sonnet-based stock analysis with Yahoo Finance data,https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/reasoning_finance_agent.py
+Readme Generator Agent,Agno,Agno,Software Dev,Generates high-quality READMEs for GitHub repos,https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/readme_generator.py
+Movie Recommendation Agent,Agno,Agno,Entertainment,Personalized movie recommendations using Exa and GPT-4o,https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/movie_recommedation.py
+Media Trend Analysis Agent,Agno,Agno,Media & News,Analyzes emerging trends and influencers from digital platforms,https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/media_trend_analysis_agent.py
+Legal Document Analysis Agent,Agno,Agno,Legal Tech,Analyzes legal PDFs and provides insights using vector embeddings,https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/legal_consultant.py
+DeepKnowledge,Agno,Agno,Research,Iterative search through knowledge base with deep reasoning,https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/deep_knowledge.py
+Book Recommendation Agent,Agno,Agno,Publishing & Media,Personalized book suggestions using literary data and reader preferences,https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/book_recommendation.py
+MCP Airbnb Agent,Agno,Agno,Hospitality,Search Airbnb listings with MCP and Llama 4,https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/airbnb_mcp.py
+Agno Assist Agent,Agno,Agno,AI Framework,GPT-4o agent for Agno framework Q&A with hybrid search,https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/agno_assist.py
+Chatbot Simulation Evaluation,LangGraph,LangGraph,AI / QA,Simulate user interactions to evaluate chatbot performance,https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/chatbot-simulation-evaluation/agent-simulation-evaluation.ipynb
+Information Gathering via Prompting,LangGraph,LangGraph,Research,LangGraph workflow using prompting to gather information,https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/chatbots/information-gather-prompting.ipynb
+Code Assistant with LangGraph,LangGraph,LangGraph,Software Development,Resilient code assistant with error checking and iterative refinement,https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/code_assistant/langgraph_code_assistant.ipynb
+Customer Support Agent,LangGraph,LangGraph,Customer Support,Graph-based agent for handling customer inquiries,https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/customer-support/customer-support.ipynb
+Extraction with Retries,LangGraph,LangGraph,Data Extraction,Retry mechanisms for robust data extraction,https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/extraction/retries.ipynb
+Multi-Agent Workflow (Supervisor),LangGraph,LangGraph,Workflow Orchestration,Supervisor agent orchestrating multiple specialized agents,https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/multi_agent/agent_supervisor.ipynb
+Hierarchical Agent Teams,LangGraph,LangGraph,Workflow Orchestration,Top-level supervisor delegates to specialized sub-agents,https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/multi_agent/hierarchical_agent_teams.ipynb
+Multi-Agent Collaboration,LangGraph,LangGraph,Workflow Orchestration,Multiple specialized agents working together on complex tasks,https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/multi_agent/multi-agent-collaboration.ipynb
+Plan-and-Execute Agent,LangGraph,LangGraph,Workflow Orchestration,Agent generates multi-step plan then executes sequentially,https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/plan-and-execute/plan-and-execute.ipynb
+SQL Agent,LangGraph,LangGraph,Database Interaction,Agent answers questions about SQL databases,https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/sql-agent.ipynb
+Reflection Agent,LangGraph,LangGraph,Workflow Orchestration,Agent critiques and revises its own outputs,https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/reflection/reflection.ipynb
+Reflexion Agent,LangGraph,LangGraph,Workflow Orchestration,Agent reflects on actions for iterative improvement,https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/reflexion/reflexion.ipynb
+Adaptive RAG,LangGraph,LangGraph,Information Retrieval,Dynamic retrieval adjusting based on query complexity,https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/rag/langgraph_adaptive_rag.ipynb
+Agentic RAG,LangGraph,LangGraph,Intelligent Agents,Agent determines best retrieval strategy before generating response,https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/rag/langgraph_agentic_rag.ipynb
+Corrective RAG (CRAG),LangGraph,LangGraph,Information Retrieval,Evaluates and refines retrieved documents before generation,https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/rag/langgraph_crag.ipynb
+Self-RAG,LangGraph,LangGraph,Information Retrieval,System reflects on responses and retrieves additional info if needed,https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/rag/langgraph_self_rag.ipynb
+Adaptive RAG (Local),LangGraph,LangGraph,Information Retrieval,Adaptive RAG with local models for offline use,https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/rag/langgraph_adaptive_rag_local.ipynb
+Self-RAG (Local),LangGraph,LangGraph,Information Retrieval,Self-RAG using local models and data sources,https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/rag/langgraph_self_rag_local.ipynb
